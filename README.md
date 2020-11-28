@@ -4,6 +4,8 @@ The project can generate REST API based on your existing database.
 
 **Note:**  After generation of an API you have to check out the code to remove secured fields, add permissions authorization and so and so forth
 
+![drf-generator-by-db](https://github.com/vdor/drf-generator-by-db/raw/master/example.gif)
+
 ## Installation & Usage
 
 - Clone repository
